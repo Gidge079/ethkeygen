@@ -4,6 +4,10 @@ Ethereum Private Key Generator
 This is a very simple, fast, open source ethereum private key generator. 
 If you need a wallet quickly just click the generate button and your private key will be copied to clipboard and ready for use. 
 
+Coded with Delphi 7 Second Edition
+
+Download ethkeygen.exe to run
+
 # Access your wallet on MEW
 Head over to https://www.myetherwallet.com/#send-transaction to paste in your private key and access your newly created wallet.
 
