@@ -15,4 +15,5 @@ Head over to https://www.myetherwallet.com/#view-wallet-info to paste in your pr
 Donations are always welcome
 
 BTC: 1Dk1aitinjK45mQeptrS3Y5VjTCPYPbWq6
+
 ETH: 0x0cbb4ab8A2D7A868199fF27faEe7AA14dbb90e12
